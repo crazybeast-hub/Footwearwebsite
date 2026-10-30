@@ -1,0 +1,22 @@
+.off-banner{
+    background-color: #ccff33;
+    color: darkgreen;
+}
+
+.off-banner:hover{
+
+    color: #ff0a54;
+    background-color: #e7c6ff;
+   
+}
+
+.nav-bar{
+    background-color: #001f54;
+    color: #b2f7ef;
+}
+
+.nav-bar:hover{
+    color: #deff0a;
+    background-color: #489fb5;
+}
+
